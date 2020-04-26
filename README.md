@@ -1,4 +1,4 @@
-This is a basic web development project done by me. Here, I have built a web page exactly like the real one of a particular website.
+This is a basic beginner level web development project. Here, I have built a web page exactly like the real one of a particular website.
 
 Tools used here are:
 
