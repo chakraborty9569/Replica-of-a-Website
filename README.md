@@ -3,7 +3,6 @@ This is a basic web development project done by me. Here, I have built a web pag
 Tools used here are:
 
 1. HTML
-
 2. CSS
 
 
