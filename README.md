@@ -1,4 +1,4 @@
-This is a basic beginner level web development project. Here, I have built a web page exactly like the real one of a particular website.
+This is a basic beginner level web development project. Here, I have built a web page exactly like the original one of a particular website.
 
 Tools used here are:
 
@@ -7,4 +7,4 @@ Tools used here are:
 
 
 
-Real Website Link: https://news.ycombinator.com/
+Original Website Link: https://news.ycombinator.com/
